@@ -1,8 +1,8 @@
 # SettingsAppInSwiftUI
-I have recreated a Settings App in iPhoneXR using SwiftUI concepts.
+I have recreated a Settings App in iPhoneXR using SwiftUI concepts.I have also used UIKit's Activity indicator into swiftUI project.
 
 <p align="center">
-  <img src="https://github.com/shankarmadeshvaran/SettingsAppInSwiftUI/blob/master/Settings.gif" width="100%" height="100%"/>
+  <img src="https://github.com/shankarmadeshvaran/SettingsAppInSwiftUI/blob/master/Settings.gif" width="65%" height="65%"/>
 </p>
 
 ## Concepts
