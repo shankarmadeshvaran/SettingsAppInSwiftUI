@@ -1,6 +1,4 @@
 
-// ActivityIndicator.Swift
-
 import SwiftUI
 
 struct ActivityIndicator: UIViewRepresentable {

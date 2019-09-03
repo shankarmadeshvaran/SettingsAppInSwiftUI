@@ -1,6 +1,4 @@
 
-//SettingsView.swift
-
 import SwiftUI
 import Combine
 

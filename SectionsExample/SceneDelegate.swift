@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  SectionsExample
-//
-//  Created by User on 25/06/19.
-//  Copyright © 2019 Heptagon. All rights reserved.
-//
 
 import UIKit
 import SwiftUI

@@ -1,6 +1,4 @@
 
-// BluetoothView.Swift
-
 import SwiftUI
 import Combine
 

@@ -1,6 +1,4 @@
 
-//WiFiView.swift
-
 import SwiftUI
 
 struct WiFiView : View {

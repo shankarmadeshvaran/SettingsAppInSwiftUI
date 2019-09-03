@@ -1,6 +1,4 @@
 
-//SigninView.swift
-
 import SwiftUI
 
 struct SignInView : View {
